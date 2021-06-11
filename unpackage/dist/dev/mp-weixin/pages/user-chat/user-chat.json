@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "社区交友",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "user-chat-list": "/components/user-chat/user-chat-list",
+    "bottom-input": "/components/common/bottom-input"
+  }
+}

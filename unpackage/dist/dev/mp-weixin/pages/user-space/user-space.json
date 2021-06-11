@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "个人空间",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "common-list": "/components/common/common_list",
+    "load-more": "/components/common/load_more",
+    "uni-popup": "/components/uni-ui/uni-popup/uni-popup"
+  }
+}

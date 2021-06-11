@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "消息列表",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-badge": "/components/uni-ui/uni-badge/uni-badge",
+    "msg-list": "/components/msg/msg-list",
+    "uni-popup": "/components/uni-ui/uni-popup/uni-popup"
+  }
+}

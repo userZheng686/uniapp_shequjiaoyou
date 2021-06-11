@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "common-list": "/components/common/common_list",
+    "bottom-input": "/components/common/bottom-input",
+    "more-share": "/components/common/more-share"
+  }
+}

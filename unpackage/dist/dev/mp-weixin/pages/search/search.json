@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "common-list": "/components/common/common_list",
+    "topic-list": "/components/news/topic-list",
+    "user-list": "/components/user-list/user-list"
+  }
+}

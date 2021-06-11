@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "社区交友",
+  "usingComponents": {
+    "common-list": "/components/common/common_list",
+    "load-more": "/components/common/load_more"
+  }
+}

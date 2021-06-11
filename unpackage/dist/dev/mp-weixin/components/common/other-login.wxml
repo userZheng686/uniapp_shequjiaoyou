@@ -1,0 +1,1 @@
+<view class="flex align-center px-5 py-3"><view class="flex-1 flex align-center justify-center"><view data-event-opts="{{[['tap',[['login',['$0'],['index']]]]]}}" class="iconfont  font-lg text-white flex align-center justify-center rounded-circle icon-weixin bg-success" style="width:100rpx;height:100rpx;" bindtap="__e"></view></view></view>

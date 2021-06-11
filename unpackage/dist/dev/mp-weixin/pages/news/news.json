@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-nav-bar": "/components/uni-ui/uni-nav-bar/uni-nav-bar",
+    "common-list": "/components/common/common_list",
+    "load-more": "/components/common/load_more",
+    "hot-cate": "/components/news/hot-cate",
+    "topic-list": "/components/news/topic-list"
+  }
+}
